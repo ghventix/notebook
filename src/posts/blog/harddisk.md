@@ -9,6 +9,7 @@ tag:
   - GPT
 shortTitle: 硬盘基础介绍
 title: 硬盘接口和协议，硬盘分区
+order: 50
 ---
 
 

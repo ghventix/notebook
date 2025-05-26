@@ -37,8 +37,5 @@ export const enNavbar = navbar([
     text: "C++", icon: "cpp",
     children: ["/cpp/base/", "/cpp/ed/"],
   },
-  {
-    text: "Blog", icon: "blog",
-    children: ["/blog", "/posts/blog/", "/posts/cs/", "/posts/java/", "/posts/db/", "/posts/om/"],
-  },
+  { text: "  Blog  ", icon: "blog", link: "/blog" },
 ]);
